@@ -4,6 +4,8 @@ This project was started to prove Benfort's law wrong. I majored in industrial e
 
 However, as a result of checking various datasets, the Benford law was valid.In most of case, the number 1 appears as the leading significant digit
 
+see more interesting result /result_vis/ufc_stats .. 
+
 
 ## About : Benford's law
 [Benford's law wiki](https://en.wikipedia.org/wiki/Benford%27s_law)
@@ -13,13 +15,13 @@ Benford's law, also known as the Newcomb–Benford law, the law of anomalous num
 
 ## result plot 
 ### NBA Stats
-<img src="result_vis/nba_stats/nba_MP.png" width="200" height="200"> <img src="result_vis/nba_stats/nba_AST.png" width="200" height="200">
+<img src="result_vis/nba_stats/nba_MP.png" width="350" height="350"> <img src="result_vis/nba_stats/nba_AST.png" width="350" height="350">
 
 ### UFC Stats
-<img src="result_vis/ufc_stats/ufc_B_avg_BODY_att.png" width="200" height="200"> <img src="result_vis/ufc_stats/ufc_B_avg_TD_landed.png" width="200" height="200">
+<img src="result_vis/ufc_stats/ufc_B_avg_BODY_att.png" width="350" height="350"> <img src="result_vis/ufc_stats/ufc_B_avg_opp_TD_landed.png" width="350" height="350">
 
 ### Market Sales
-<img src="result_vis/market_sales/market_EU_Sales.png" width="200" height="200"> <img src="result_vis/market_sales/Market_NA_Sales.png" width="200" height="200">
+<img src="result_vis/market_sales/market_EU_Sales.png" width="350" height="350"> <img src="result_vis/market_sales/market_NA_Sales.png" width="350" height="350">
 
 
 
